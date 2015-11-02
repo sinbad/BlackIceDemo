@@ -1,0 +1,33 @@
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³      ÉÍÍ»  Ö    ÉÍÍÍ» ÉÍÍÍ» ·                                             ³
+³      º  º  º    º   º º   ½ º  Ö                                          ³
+³      ÌÍÍÊ» º    ÌÍÍÍ¹ º     ÌÍÍ¹          -= 01481 39633 =-               ³
+³      º   º º    º   º º   · º  º                                          ³ 
+³      ÈÍÍÍ¼ ÈÍÍÍ¾Ó   ½ ÈÍÍÍ¼ ½  ½                                          ³
+³                                   ÍÍËÍÍ ÉÍÍÍ» ÉÍÍÍÍ                       ³
+³                                     º   º     º                           ³
+³     -= 01481 35323 =-               º   º     ÌÍÍÍ                        ³
+³                                     º   º   · º                           ³
+³                                   ÍÍÊÍÍ ÈÍÍÍ¼ ÈÍÍÍÍ                       ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+SOURCE CODE
+___________
+
+Well, here it is - the whole source to the Black Ice demo! Don't get too
+excited now...;)
+
+The code was assembled with TASM 4.0, but is written in MASM mode so should
+work fine with any other compiler. Make sure you put all the .INC files in
+your normal include path, or alter the include path accordingly to point to
+them.
+
+When linking, just add STMIK020.OBJ to the link list; this contains all the
+sound code (courtesy of Future Crew - thanx!)
+
+If you have any problems you can mail me on Black Ice (Steve Streeting) or
+at sinbad.sv.span.com.
+
+Happy coding!
+
+-= Sinbad =-
